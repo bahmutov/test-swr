@@ -1,0 +1,22 @@
+{
+  "name": "test-swr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "4.4.1",
+    "cypress-react-unit-test": "3.0.0-cypress-mount-mode.22"
+  },
+  "dependencies": {
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-scripts": "3.4.1",
+    "swr": "0.2.0"
+  }
+}
